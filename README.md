@@ -16,3 +16,6 @@ mail-signature.config.php
 #### Zip folder 
 Singing message with PHPmailer and DKIM key
 
+#### For more
+https://github.com/louisameline/php-mail-signature
+

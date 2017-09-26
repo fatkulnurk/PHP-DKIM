@@ -12,3 +12,7 @@ mail-html-dkim-multipart.php
 
 #### Config file, dkim.private key
 mail-signature.config.php
+
+#### Zip folder 
+Singing message with PHPmailer and DKIM key
+

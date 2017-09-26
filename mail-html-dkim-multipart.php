@@ -34,7 +34,9 @@ $header .= "Content-Type: multipart/mixed; boundary=\"".$boundary."\"\r\n\r\n";
 
 // message & attachment
 $nmessage = "--".$boundary."\r\n";
-$nmessage .= "Content-type:text/html; charset=iso-8859-1\r\n";
+// $nmessage .= "Content-type:text/html; charset=iso-8859-2\r\n";
+// $nmessage .= "Content-type:text/html; charset=iso-8859-1\r\n";
+$nmessage .= "Content-type:text/html; charset=utf-8\r\n";
 $nmessage .= "Content-Transfer-Encoding: 7bit\r\n\r\n";
 $nmessage .= $message."\r\n\r\n";
 $nmessage .= "--".$boundary."\r\n";

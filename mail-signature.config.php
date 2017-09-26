@@ -25,7 +25,7 @@ c+KCpVQb7Z5VBrwJ3pITAmn+Q3HmXDR9y7y+Zp68O44CbbiH2Z4
 define('MAIL_RSA_PUBL','');
 
 // Domain or subdomain of the signing entity (i.e. the domain where the e-mail comes from)
-define('MAIL_DOMAIN', 'qflash.pl');  
+define('MAIL_DOMAIN', 'domain.pl');  
 
 // Allowed user, defaults is "@<MAIL_DKIM_DOMAIN>", meaning anybody in the MAIL_DKIM_DOMAIN
 // domain. Ex: 'admin@mydomain.tld'. You'll never have to use this unless you do not

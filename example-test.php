@@ -12,8 +12,8 @@
 
 
 // YOUR E-MAIL
-$sender = 'info@qflash.pl';
-$to = 'fxstareu@gmail.com';
+$sender = 'info@domain.pl';
+$to = 'dddd@gmail.com';
 $subject = 'My subject';
 
 $headers =

@@ -2,9 +2,9 @@
 // Send multipart mime message with dkim
 
 // YOUR E-MAIL
-$name = 'Qflash.pl';
-$sender = 'info@qflash.pl';
-$to = 'fxstareu@gmail.com';
+$name = 'Name Lastname';
+$sender = 'info@domain.pl';
+$to = 'ddddd@gmail.com';
 $subject = 'My subject';
 
 $headers =

@@ -1,9 +1,9 @@
 <?php
 // Send simple email without DKIM SIgning
 // YOUR E-MAIL
-$name = 'Qflash.pl';
-$sender = 'info@qflash.pl';
-$to = 'fxstareu@gmail.com';
+$name = 'Name Lastname';
+$sender = 'info@domain.pl';
+$to = 'ddddd@gmail.com';
 $subject = 'Simple html message with dkim';
 
 $headers =
